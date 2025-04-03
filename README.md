@@ -1,12 +1,11 @@
 - 👋 Hello, I'm @GabrielVictorP
-- 👀 I am interested in front end...
-- 🌱 I'm currently learning frameworks...
-- 💞️ I'm looking to collaborate on a freelance basis or a job...
+- 👀 I'm interested in front-end development...
+- 🌱 I'm currently learning new frameworks....
 - 📫 How to reach me on my social media <br>
 :[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/gabriel-victor-a27570260/](https://www.linkedin.com/in/gabriel-victor-a27570260/))](https://www.linkedin.com/in/gabriel-victor-a27570260/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=[[https://www.instagram.com/gabriel.victor.j/](https://www.instagram.com/gabriel.victor.j/)](https://www.instagram.com/gabrielvictor.j/))](https://www.instagram.com/gabriel.victor.j/)
 
-### Skills
+### Tech Stack
 # Languages
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
@@ -29,6 +28,31 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
+📌 Experience
+
+🗨️ Chat Communication System
+
+- Developed a real-time chat application using Next.js, TypeScript, and WebSockets.
+
+- Implemented authentication and user roles with Firebase.
+
+- Enhanced UI/UX with Material-UI.
+
+🌎 Portfolio Website
+
+- Built a personal portfolio using Next.js and Vite.
+
+- Integrated animations and smooth transitions using Framer Motion.
+
+- Deployed on Vercel for optimal performance and speed.
+
+🔗 API Integrations with Golang
+
+- Developed RESTful APIs using Go.
+
+- Integrated third-party services for enhanced data processing.
+
+- Optimized request handling and database performance.
 
 - 😁 My portfolio
 https://portfolio-gabrielvictorp.vercel.app/

@@ -56,6 +56,6 @@
 - Optimized request handling and database performance.
 
 - 😁 My portfolio
-https://portfolio-gabrielvictorp.vercel.app/
+https://portfolio-gabriel-theta.vercel.app/
 
 

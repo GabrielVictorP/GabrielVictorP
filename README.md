@@ -49,8 +49,7 @@ I'm a **Front-End & Full-Stack Software Engineer** with 2+ years of production e
 - Integrated automated **Pix payment processing (Asaas API)** with real-time **webhook validation** for instant order fulfillment and ledger sync.
 - Built a comprehensive **Admin & Operational Intelligence Dashboard** with **Recharts** to monitor transactions, conversion rates, and profit margins.
 
-👉 **Live Production App:** [https://shop-rucoy.vercel.app/](https://shop-rucoy.vercel.app/)
-
+👉 **Live Production App:** [https://www.dxbil.com/](https://www.dxbil.com/)
 ### 💬 Real-Time AI Chat & Multi-Agent Systems
 - Developed production real-time chat interfaces using **React**, **Next.js**, **TypeScript**, **WebSockets**, and **Server-Sent Events (SSE)** for sub-second AI response streaming.
 - Engineered distributed back-end pipelines in **Go (Golang)** and **Redis** integrated with **Google Workspace APIs** and **Model Context Protocol (MCP)**.
